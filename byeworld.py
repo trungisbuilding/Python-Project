@@ -1,3 +1,5 @@
 print("bye world!")
 print("BYE WORLD")
-print("BYEEEE WORLDDDDD")
+#burn the world in flames
+#muauauauahhaha
+print("But it aint but a chicken wing")
