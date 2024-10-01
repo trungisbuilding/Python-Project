@@ -5,4 +5,4 @@ print("BYE WORLD")
 print("But it aint but a chicken wing")
 print("sup im still thinking ")
 
-prin("dang now i want some fries")
+print("dang now i want some fries")
